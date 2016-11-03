@@ -1,0 +1,29 @@
+{
+	"name": "zyblog/yii2-bjui",
+	"description": "yii2集成B-JUI后台模板",
+	"keywords": ["yii2bjui", "B-JUI", "b-jui.js"],
+	"homepage": "https://github.com/zhangyue0503/yii2bjui",
+	"type": "yii2-extension",
+	"license": "MIT",
+	"minimum-stability" : "stable",
+	"authors": [
+		{
+			"name": "Zhang Yue",
+			"email": "zhangyue0503@hotmail.com",
+			"homepage": "http://www.zyblog.net/",
+			"role": "Creator"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/zhangyue0503/yii2bjui/issues",
+		"source": "https://github.com/zhangyue0503/yii2bjui"
+	},
+	"require": {
+		"yiisoft/yii2": "*"
+	},
+	"autoload": {
+		"psr-4": {
+			"zyblog\\bjui\\": ""
+		}
+	}
+}
