@@ -52,7 +52,7 @@ http://www.b-jui.com/
 
 可参考kindeditor相关示例自己写
 
-上传配置：
+上传配置在textarea中添加：
 
 ```html
 <textarea data-options="{uploadJson:'上传路径'}" >
